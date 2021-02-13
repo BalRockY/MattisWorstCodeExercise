@@ -1,0 +1,13 @@
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\bin\Debug\netcoreapp3.1\WorstCodeExercise.exe
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\bin\Debug\netcoreapp3.1\WorstCodeExercise.deps.json
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\bin\Debug\netcoreapp3.1\WorstCodeExercise.runtimeconfig.json
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\bin\Debug\netcoreapp3.1\WorstCodeExercise.runtimeconfig.dev.json
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\bin\Debug\netcoreapp3.1\WorstCodeExercise.dll
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\bin\Debug\netcoreapp3.1\WorstCodeExercise.pdb
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\obj\Debug\netcoreapp3.1\WorstCodeExercise.csprojAssemblyReference.cache
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\obj\Debug\netcoreapp3.1\WorstCodeExercise.AssemblyInfoInputs.cache
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\obj\Debug\netcoreapp3.1\WorstCodeExercise.AssemblyInfo.cs
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\obj\Debug\netcoreapp3.1\WorstCodeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\obj\Debug\netcoreapp3.1\WorstCodeExercise.dll
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\obj\Debug\netcoreapp3.1\WorstCodeExercise.pdb
+C:\Users\Mattis\source\repos\WorstCodeExercise\WorstCodeExercise\obj\Debug\netcoreapp3.1\WorstCodeExercise.genruntimeconfig.cache
